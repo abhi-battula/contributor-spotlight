@@ -351,7 +351,7 @@ function ContributorDetails(props) {
                                 </Stack>
                             </Link>
                         ) : (
-                            <div />
+                            <></>
                         )}
 
                         {next ? (
