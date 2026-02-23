@@ -418,7 +418,7 @@ function ContributorDetails(props) {
                                 </Link>
                             </Box>
                         ) : (
-                            <div />
+                            <></>
                         )}
                     </Box>
                 </Box>
